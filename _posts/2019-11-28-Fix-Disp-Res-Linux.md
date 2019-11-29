@@ -1,6 +1,6 @@
 ---
 title: Fix Display Resolution in Ubuntu 16.04 by installing NVIDIA Drivers
-date: 2019-28-11
+date: 2019-11-28
 tags: [Ubuntu, Drivers]
 header: 
   image: "/images/ubuntu.jpg"
