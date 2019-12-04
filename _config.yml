@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Vu Quoc Do"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/portrait.jpg"
   bio              : "Graduate Teaching Assistant, UIUC"
   location         : "Urbana, IL"
   email            :
