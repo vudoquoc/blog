@@ -2,8 +2,6 @@
 title: Fix Display Resolution in Ubuntu 16.04 by installing NVIDIA Drivers
 date: 2019-11-28
 tags: [Ubuntu, Drivers]
-header: 
-  image: "/images/ubuntu.jpg"
 ---
 I just finished building my own PC and installing Ubuntu 16.04 alongside Windows 10. The Windows 10 is located on a SSD 256 GB drive and the Ubuntu 16.04 is located on a 1T HDD partition. In order to install these two operating systems on separate drives, please take a look at my post on How to dual boot Ubuntu and Windows 10 on separated hard drives.
 
