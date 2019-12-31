@@ -108,7 +108,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vu Quoc Do"
+  name             : #"Vu Quoc Do"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just another **normal** person."
   location         : "Urbana-Champaign, IL"
@@ -132,6 +132,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - /docs/_docs
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
