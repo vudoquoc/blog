@@ -2,6 +2,7 @@
 title: "Publications"
 permalink: /pubs/
 layout: posts
+author_profile: true
 #header:
 #  image: "/images/cover.jpg"
 ---
