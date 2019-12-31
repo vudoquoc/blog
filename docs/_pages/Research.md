@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-layout: default
+layout: posts
 #header:
 #  image: "/images/hourglass.jpg"
 ---
