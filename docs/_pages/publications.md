@@ -1,8 +1,8 @@
 ---
 title: "Publications"
-permalink: /publications/
-header:
-  image: "/images/cover.jpg"
+permalink: /pubs/
+#header:
+#  image: "/images/cover.jpg"
 ---
 ## Journal Papers
 1. Junghyo Yoon, **Vu Q. Do**, Van-Sang Pham, Jongyoon Han, "[Return flow ion concentration polarization desalination: A new way to enhance electromembrane desalination](https://www.sciencedirect.com/science/article/abs/pii/S0043135419304300)", Water Research, Volume 159, 2019, Pages 501-510, ISSN 0043-1354,
