@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 permalink: /pubs/
+layout: default
 #header:
 #  image: "/images/cover.jpg"
 ---
